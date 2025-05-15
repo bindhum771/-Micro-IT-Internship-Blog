@@ -1,6 +1,20 @@
 # -Micro-IT-Internship-Blog
 # 📝 Blog Website with Flask
 
+## 📦 Requirements
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+
+##Dependencies include:
+Flask
+Flask-Login
+Flask-SQLAlchemy
+Werkzeug
+
+
 A simple and user-friendly blog platform built with **Flask**, featuring:
 
 - 🧑‍💻 User authentication (register/login/logout)
@@ -29,18 +43,6 @@ A simple and user-friendly blog platform built with **Flask**, featuring:
 
 ---
 
-## 📦 Requirements
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-
-##Dependencies include:
-Flask
-Flask-Login
-Flask-SQLAlchemy
-Werkzeug
 
 ✨ Future Improvements
 Admin dashboard
