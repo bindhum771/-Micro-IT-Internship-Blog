@@ -1,20 +1,6 @@
 # -Micro-IT-Internship-Blog
 # 📝 Blog Website with Flask
 
-## 📦 Requirements
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-
-##Dependencies include:
-Flask
-Flask-Login
-Flask-SQLAlchemy
-Werkzeug
-
-
 A simple and user-friendly blog platform built with **Flask**, featuring:
 
 - 🧑‍💻 User authentication (register/login/logout)
@@ -61,6 +47,20 @@ This project is licensed under the MIT License.
 ![Screenshot (43)](https://github.com/user-attachments/assets/f3b2d7ad-fad6-43cd-9c8e-c18c68fc7889)
 ![Screenshot (44)](https://github.com/user-attachments/assets/39224fe7-6ea3-477c-aacc-8e3a58139966)
 ![Screenshot (45)](https://github.com/user-attachments/assets/c1455927-4824-45be-8579-fca1df22f677)
+
+## 📦 Requirements
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+
+##Dependencies include:
+Flask
+Flask-Login
+Flask-SQLAlchemy
+Werkzeug
+
 
 
 
